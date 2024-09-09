@@ -7,5 +7,7 @@
 </head>
 <body>
     <h1>Mi primer proyecto</h1>
+        <img src="https://cms.boardmix.com/images/es/articles/knowledge/diagrama-de-clases-uml.png" alt="">
+
 </body>
 </html>
